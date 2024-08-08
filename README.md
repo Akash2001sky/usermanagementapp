@@ -55,6 +55,8 @@ npm start
 
 ```
 
+# If you face any issue with running app check the NDK version in the system and change accordingly
+
 # If you face any issue with android setup
 
 For Mac enter this command in terminal in project level
